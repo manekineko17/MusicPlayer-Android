@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.12962962962962962" />
         <entry key="app/src/main/res/drawable/ic_baseline_music_off_24.xml" value="0.27870370370370373" />
         <entry key="app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.12962962962962962" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.30666666666666664" />
+        <entry key="app/src/main/res/drawable/ic_outline_stop_circle_24.xml" value="0.30666666666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2953125" />
       </map>
     </option>
   </component>
